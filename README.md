@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Luís and I'm a Computer Engineering Degree Student, from Porto, Portugal.</h2>
+<h2 align="left">Hi 👋! My name is Luís and I'm a Computer Engineering Degree Student, from Porto - Portugal.</h2>
 
 ###
 
